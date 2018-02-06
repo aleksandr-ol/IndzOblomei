@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IndzOblomei</string>
+    <string name="priceoneText">Вартість мийки машини :</string>
+    <string name="input_price">Введіть вартість</string>
+    <string name="countText">Кількість машин:</string>
+    <string name="inputCount">Введіть кількість</string>
+    <string name="submitBtnText">Підрахувати ціну</string>
+</resources>
